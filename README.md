@@ -22,5 +22,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp; -->
 
-<img id = "i" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
-<style>#i{ transform: rotate(90deg);}</style>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
+
