@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=29A915&center=true&random=false&width=435&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Gabriel;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
 
 <div align="center">  
