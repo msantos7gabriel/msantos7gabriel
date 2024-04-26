@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Gabriel;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
 
-# 📊 Stats
+# Stats 📊
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msantos7gabriel&bg_color=6ede8a&color=0f451d&line=197a31&point=030b07&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
