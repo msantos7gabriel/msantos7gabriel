@@ -16,7 +16,7 @@
 # Socials 🌐
 
 <div align="center"> 
-<a href="https://www.instagram.com/ms7biel/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
+<a href="https://www.instagram.com/ms7biel/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"></a>
 <a href = "mailto:gabriel.msantos7@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -31,10 +31,18 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
+
+<h1 align="center">
+  Contador de Visitantes
+  <br>
+  <img src="https://profile-counter.glitch.me/msantos7gabriel/count.svg" />
+</h1>
