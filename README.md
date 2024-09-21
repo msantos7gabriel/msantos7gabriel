@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=msantos7gabriel&show_icons=true&count_private=true&hide_border=true&title_color=030b07&icon_color=030b07&text_color=030b07&bg_color=6ede8a" alt= Gabriel Santos GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantos7gabriel&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantos7gabriel&layout=compact&hide_border=true&title_color=0f451d&text_color=030b07&bg_color=6ede8a" />
 </div>
 
 # Socials 🌐
